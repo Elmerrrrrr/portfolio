@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc3db6e8.chunk.css",
+    "main.js": "/static/js/main.3741eecd.chunk.js",
+    "main.js.map": "/static/js/main.3741eecd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4b14a68f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4b14a68f.js.map",
+    "static/css/2.29591887.chunk.css": "/static/css/2.29591887.chunk.css",
+    "static/js/2.d2170716.chunk.js": "/static/js/2.d2170716.chunk.js",
+    "static/js/2.d2170716.chunk.js.map": "/static/js/2.d2170716.chunk.js.map",
+    "static/js/3.175450ab.chunk.js": "/static/js/3.175450ab.chunk.js",
+    "static/js/3.175450ab.chunk.js.map": "/static/js/3.175450ab.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.29591887.chunk.css.map": "/static/css/2.29591887.chunk.css.map",
+    "static/css/main.dc3db6e8.chunk.css.map": "/static/css/main.dc3db6e8.chunk.css.map",
+    "static/js/2.d2170716.chunk.js.LICENSE.txt": "/static/js/2.d2170716.chunk.js.LICENSE.txt",
+    "static/media/_about.scss": "/static/media/code-pattrn-bg.1f421243.jpg",
+    "static/media/_parallax.scss": "/static/media/elmer-portfolio-banner-small.6e376d3a.jpg",
+    "static/media/elmer-profielfoto.9ca7095b.jpg": "/static/media/elmer-profielfoto.9ca7095b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b14a68f.js",
+    "static/css/2.29591887.chunk.css",
+    "static/js/2.d2170716.chunk.js",
+    "static/css/main.dc3db6e8.chunk.css",
+    "static/js/main.3741eecd.chunk.js"
+  ]
+}
