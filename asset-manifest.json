@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.0e7e6f7d.chunk.css",
+    "main.css": "/static/css/main.feb03823.chunk.css",
     "main.js": "/static/js/main.1a45cbb3.chunk.js",
     "main.js.map": "/static/js/main.1a45cbb3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4b14a68f.js",
@@ -12,7 +12,7 @@
     "static/js/3.175450ab.chunk.js.map": "/static/js/3.175450ab.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.29591887.chunk.css.map": "/static/css/2.29591887.chunk.css.map",
-    "static/css/main.0e7e6f7d.chunk.css.map": "/static/css/main.0e7e6f7d.chunk.css.map",
+    "static/css/main.feb03823.chunk.css.map": "/static/css/main.feb03823.chunk.css.map",
     "static/js/2.51e6fb2a.chunk.js.LICENSE.txt": "/static/js/2.51e6fb2a.chunk.js.LICENSE.txt",
     "static/media/_contact.scss": "/static/media/code-pattrn-bg.1f421243.jpg",
     "static/media/_parallax.scss": "/static/media/elmer-portfolio-banner-small.6e376d3a.jpg",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.4b14a68f.js",
     "static/css/2.29591887.chunk.css",
     "static/js/2.51e6fb2a.chunk.js",
-    "static/css/main.0e7e6f7d.chunk.css",
+    "static/css/main.feb03823.chunk.css",
     "static/js/main.1a45cbb3.chunk.js"
   ]
 }
